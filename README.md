@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on WebDev Projects
 - 📫 You can reach me through E-Mail its lakshaymanchanda73@gmail.com -->
 
-![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshayman&&hide=stars&show_icons=true)
+![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshayman&&show_icons=true&theme=calm)
 
 <!---
 lakshayman/lakshayman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
