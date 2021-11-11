@@ -1,6 +1,6 @@
 ## Hey, I'm Lakshay Manchanda. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![GitHub lakshayman](https://img.shields.io/github/followers/lakshayman?label=follow&style=social)](https://github.com/lakshayman)
-[![Linkedin: Lakshay Manchanda](https://img.shields.io/badge/-Lakshay%20Manchanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshayman/)](https://www.linkedin.com/in/vlakshayman/)
+[![Linkedin: Lakshay Manchanda](https://img.shields.io/badge/-Lakshay%20Manchanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshayman/)](https://www.linkedin.com/in/lakshayman/)
 [![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/lakshayman2000?style=social)](https://twitter.com/lakshayman2000)
 <!-- - 👋 Hi, I’m Lakshay Manchanda(@lakshayman)
 - 👀 I’m interested in learning different frameworks of JavaScript
