@@ -4,7 +4,7 @@ Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio at [https://lakshaymanchanda.me](http://lakshaymanchanda.me)
+* 🖥️  See my portfolio at [https://git.lakshaymanchanda.social](https://git.lakshaymanchanda.social)
 * ✉️  You can contact me at [lakshaymanchanda73@gmail.com](mailto:lakshaymanchanda73@gmail.com)
 * 🧠  I'm learning EmberJS, Golang and Rust currently.
 * 🤝  I'm open to collaborating on any challenging task.
